@@ -55,7 +55,9 @@ const techStack = {
 ### 🚀 Social Media Marketing Platform
 - Full-stack development with NodeJS and ReactJS
 - Comprehensive social media service marketplace
-- 
+
+### 🚀 Brand Assistant Platform
+
 ### 🚀 Project Management Platform
 -  A modern project management platform that combines task tracking, real-time collaboration, and team communication in a seamless web application built with React and Node.js.
 
