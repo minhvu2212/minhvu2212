@@ -61,6 +61,12 @@ const techStack = {
 ### 🚀 Project Management Platform
 -  A modern project management platform that combines task tracking, real-time collaboration, and team communication in a seamless web application built with React and Node.js.
 
+### 📚 Ebook Store
+
+### 💻 Playwright Automation X, Threads
+
+### AI Blog
+
 
 ## 🌐 Languages
 - English: TOEIC 565
